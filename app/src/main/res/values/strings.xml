@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YaPulse</string>
+    <string name="service_media_bridge_label">YaPulse — мост к Яндекс Музыке</string>
+    <string name="tile_car_mode_label">YaPulse Авто</string>
+
+    <string name="nav_player">Плеер</string>
+    <string name="nav_studio">Звук и фишки</string>
+    <string name="nav_car">Авторежим</string>
+    <string name="nav_history">История</string>
+
+    <string name="permission_banner_title">Подключите мост к Яндекс Музыке</string>
+    <string name="permission_banner_desc">Разрешите доступ к уведомлениям, чтобы перехватывать треки и управлять воспроизведением.</string>
+    <string name="permission_banner_btn">Разрешить</string>
+
+    <string name="status_yandex_connected">Яндекс Музыка</string>
+    <string name="status_universal_connected">Универсальный мост</string>
+    <string name="status_disconnected">Ожидание трека</string>
+    <string name="default_track_title">Яндекс Музыка ждёт сигнала</string>
+    <string name="default_track_artist">Включите трек в Яндекс Музыке или откройте приложение кнопкой выше</string>
+
+    <string name="cd_album_cover">Обложка текущего трека</string>
+    <string name="cd_play_pause">Воспроизведение или пауза</string>
+    <string name="cd_previous_track">Предыдущий трек</string>
+    <string name="cd_next_track">Следующий трек</string>
+    <string name="cd_rewind_15">Назад на 15 секунд</string>
+    <string name="cd_forward_15">Вперёд на 15 секунд</string>
+    <string name="cd_open_yandex">Открыть Яндекс Музыку</string>
+    <string name="cd_share_track">Поделиться треком</string>
+    <string name="cd_bookmark_moment">Сохранить таймкод</string>
+    <string name="cd_my_wave">Запустить Мою волну</string>
+
+    <string name="toast_yandex_not_installed">Приложение Яндекс Музыка не установлено на устройстве</string>
+    <string name="toast_bookmark_saved">Таймкод сохранён в закладки</string>
+    <string name="toast_share_chooser">Поделиться треком</string>
+
+    <string name="car_mode_badge">АВТОРЕЖИМ • ЭКРАН НЕ ГАСНЕТ</string>
+    <string name="history_clear_title">Очистить историю?</string>
+    <string name="history_clear_message">Все сохранённые прослушивания, статистика артистов и закладки будут удалены.</string>
+    <string name="history_clear_confirm">Удалить</string>
+    <string name="history_clear_cancel">Отмена</string>
+</resources>

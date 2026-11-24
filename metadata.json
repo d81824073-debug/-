@@ -1,0 +1,6 @@
+{
+  "name": "YaPulse",
+  "description": "Компаньон и расширенный пульт для Яндекс Музыки: виниловый плеер, 5-полосный эквалайзер, таймер сна с fade-out, Shake-to-Skip, авторежим и история треков",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
